@@ -1,1 +1,1 @@
-Tic-toe in python project
+Tic - Tac - Toe game building projeect in python
